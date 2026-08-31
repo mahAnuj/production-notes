@@ -80,9 +80,13 @@ enforces them. I re-learned this writing these very documents.
 ## About
 
 Built and operated by [Anuj Mahajan](https://github.com/mahAnuj) — staff-level
-engineer, 15 years, currently at Adobe. These systems are built solo with
-AI-assisted development; the architecture, data pipelines and infrastructure
-decisions are mine.
+engineer, 15 years in distributed systems and cloud-native backends. These
+systems are built solo with AI-assisted development; the architecture, data
+pipelines and infrastructure decisions are mine.
+
+**[anujmahajan.com](https://anujmahajan.com)** — case studies on all three
+platforms, including VeoCabs which is not covered here, plus writing on AI
+engineering and architecture.
 
 Source repositories are private. These documents describe the architecture and
 the reasoning, not the implementation.
